@@ -9,6 +9,8 @@ import React from 'react';
 import { Brand,CTA,Navbar } from './components';
 import { Blog,Features,Footer,Header,Possiblity,WhatGPT3} from "./containers";
 
+import "./App.css";
+
 const App = () => {
   return (
     <div className='App'>
